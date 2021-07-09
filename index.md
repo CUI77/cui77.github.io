@@ -2,6 +2,7 @@
 layout: default
 ---
 
+Belows are my previous works about software development.
 
 # Meal Ordering Software Development-2020.6.28
 
@@ -21,7 +22,7 @@ layout: default
 
 * * *
 
-*[·-·]:[Link to another page](./another-page.html).
+
 
 
 
