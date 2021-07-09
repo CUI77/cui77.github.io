@@ -6,6 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+[Meal Ordering Software Development Document](https://github.com/CUI77/cui77.github.io/blob/main/docs/Meal%20Ordering%20Software%20Development%20Document-2020.6.28.pdf).
+
+[Design of Secondary Pressure Drop Detection System](https://github.com/CUI77/cui77.github.io/blob/main/docs/Design%20of%20Secondary%20Pressure%20Drop%20Detection%20System.pdf).
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
