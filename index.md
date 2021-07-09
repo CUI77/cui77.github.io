@@ -20,7 +20,7 @@ layout: default
 
 * * *
 
-[Link to another page](./another-page.html).
+*[·-·]:[Link to another page](./another-page.html).
 
 
 
@@ -35,19 +35,13 @@ layout: default
 
 *[·-·]:*   This is an unordered list following a header.
 
-
 *[·-·]:##### Header 5
 
 *[·-·]:1.  This is an ordered list following a header.
 
-
 *[·-·]:###### Header 6
 
 *[·-·]:### There's a horizontal rule below this.
-
-* * *
-
-
 
 *[·-·]:### Small image
 
