@@ -6,11 +6,11 @@ Belows are my previous works about software development.
 
 # Meal Ordering Software Development-2020.6.28
 
-> In this project, we designed an online meal ordering system, which mainly includes two parts:
+> In this project, I designed an online meal ordering system, which mainly includes two parts:
 > 
-> (1) User ordering operation, including browsing menu, viewing menu information and other sub-modules;
+> 1) User ordering operation, including browsing menu, viewing menu information and other sub-modules;
 > 
-> (2) Background management, including user management, menu management, order management, message management and other sub-modules.
+> 2) Background management, including user management, menu management, order management, message management and other sub-modules.
 > 
 > The product goal is to achieve the fluency of the canteen ordering system and the convenience of customers ordering meals.
 
@@ -24,13 +24,14 @@ Belows are my previous works about software development.
 > 
 > I designed a software to control a series of operations such as detection.
 > 
-> And let the software to finish the complex manual tasks.
+> Therefore people can use the software to finish many complex manual tasks.
 
 [Document link](https://github.com/CUI77/cui77.github.io/blob/main/docs/Design%20of%20Secondary%20Pressure%20Drop%20Detection%20System.pdf).
 
 * * *
 
-**COMING SOON...**
+# COMING SOON...
+
 
 
 
